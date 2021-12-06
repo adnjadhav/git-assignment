@@ -1,0 +1,13 @@
+<html>
+<head>
+<style type="text/css">
+h1{
+color:red
+}
+</style>
+</head>
+<body>
+<h1>Here is heading</h1>
+<p>Hello Git world</p>
+</body>
+</html>
