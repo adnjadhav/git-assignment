@@ -1,13 +1,11 @@
 <html>
 <head>
-<style type="text/css">
-h1{
-color:red
-}
-</style>
+<link href="style.css">
+
 </head>
 <body>
 <h1>Here is heading</h1>
 <p>Hello Git world</p>
+<p>Welcome</p>
 </body>
 </html>
